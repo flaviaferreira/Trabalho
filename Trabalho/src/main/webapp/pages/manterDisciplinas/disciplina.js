@@ -1,4 +1,4 @@
-module = angular.module("Prova", []);
+module = angular.module("App", []);
 
 module.controller("DisciplinaController", ["$scope","$http", DisciplinaController]);
 
